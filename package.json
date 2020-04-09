@@ -1,0 +1,16 @@
+{
+  "name": "elm-install",
+  "version": "0.1.0",
+  "description": "Easily install elm packages",
+  "bin": {
+    "elm-install": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "elm",
+    "install"
+  ],
+  "author": "Mason Mackaman",
+  "license": "ISC"
+}

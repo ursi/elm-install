@@ -12,5 +12,13 @@
     "install"
   ],
   "author": "Mason Mackaman",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursi/elm-install.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ursi/elm-install/issues"
+  },
+  "homepage": "https://github.com/ursi/elm-install#readme"
 }

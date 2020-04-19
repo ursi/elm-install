@@ -1,6 +1,6 @@
 {
   "name": "elm-install",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily install elm packages",
   "bin": {
     "elm-install": "./index.js"
